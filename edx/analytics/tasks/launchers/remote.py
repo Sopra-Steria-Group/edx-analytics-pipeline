@@ -175,7 +175,7 @@ def convert_args_to_extra_vars(arguments, uid):
     }
     repos = {
         'pipeline': {
-            'url': 'https://github.com/edx/edx-analytics-pipeline.git',
+            'url': 'https://github.com/Sopra-Steria-Group/edx-analytics-pipeline',
             'branch': 'origin/master',
             'dir_name': REMOTE_CODE_DIR_BASE
         }
